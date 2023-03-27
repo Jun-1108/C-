@@ -42,7 +42,7 @@ namespace Stack
         {
             if (this.IsFull())
             {
-                throw new ApplicationException("Stack is Empty");
+                throw new ApplicationException("Stack is Full");
             }
             else
             {
