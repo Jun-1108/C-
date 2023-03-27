@@ -4,3 +4,5 @@
 Stack크기를 10으로 입력 받았다면 만약 push의 size가 10이 넘으면 예외처리로 "Stack is Full"가 뜨도록 만든다.
 ## Pop 메소드
 rtnData 값을 -1 해주고, 만약 비어있다면 예외처리로 "Stack is Empty"가 뜨도록 만든다.
+## Peek 메소드
+top 값을 알수 있다.
